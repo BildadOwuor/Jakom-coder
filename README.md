@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jakom-coder
+- 👋 Hi, I’m Bildad
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java button
