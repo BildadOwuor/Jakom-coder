@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bildad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java button
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me bildadowuor@yahoo.com
 
 <!---
