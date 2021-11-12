@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bildad
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me bildadowuor@yahoo.com
